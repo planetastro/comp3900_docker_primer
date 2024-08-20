@@ -1,5 +1,7 @@
 # Docker Primer
 
+**This is an individual exercise**
+
 ### Due Week 3 Lab Time
 
 This primer contains 3 exercises. Each is worth `0.5%` of your course mark.
@@ -17,7 +19,9 @@ Clone this repo (if you don't know how to do this, refer to the Git primer which
 There are three short exercises.
 
 [Exercise 1](docker_ex1/README.md) - Basic exercise to make sure you have installed Docker and everything runs perfectly. You will not need to write any code for this exercise.
+
 [Exercise 2](docker_ex2/README.md) - Writing Dockerfiles.
+
 [Exercise 3](docker_ex3/README.md) - Writing Docker compose files.
 
 There are lots of comments throughout this repo. If you're stuck, read through the code and try to understand what's going on! Make sure to reuse the code from exercise 1 when doing exercise 2 and similarly with exercise 3.
