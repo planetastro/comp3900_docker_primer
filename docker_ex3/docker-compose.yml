@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  redis:
+    image: "redis:alpine"
+    ports:
+      - "6379:6379"
+  # TODO: add your code here (delete this line and follow the indent conventions)
