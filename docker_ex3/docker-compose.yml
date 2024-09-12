@@ -5,3 +5,9 @@ services:
     ports:
       - "6379:6379"
   # TODO: add your code here (delete this line and follow the indent conventions)
+  app:
+    # TODO: you will need to add to this
+    environment:
+      - REDIS_HOST=redis
+  frontend:
+    # TODO: you will need to add to this
